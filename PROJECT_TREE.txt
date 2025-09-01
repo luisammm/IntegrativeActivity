@@ -1,0 +1,28 @@
+└── Assets
+    ├── Materials
+    │   ├── Blue.mat
+    │   ├── Green.mat
+    │   └── Red.mat
+    ├── Scenes
+    │   └── SampleScene.unity
+    └── Scripts
+        ├── Chest.cs
+        ├── GridNav.cs
+        ├── Jewel.cs
+        ├── Metrics.cs
+        ├── New Shared World State.asset
+        ├── Prefabs
+        │   ├── Capsule.prefab
+        │   ├── Obstaculopared Variant.prefab
+        │   ├── Obstaculopared.prefab
+        │   ├── diamante_azul.prefab
+        │   ├── diamante_rojo.prefab
+        │   ├── diamante_verde.prefab
+        │   ├── robot_azul.prefab
+        │   ├── robot_rojo.prefab
+        │   └── robot_verde.prefab
+        ├── RobotBrain.cs
+        ├── SharedWorldState.cs
+        ├── Spawner.cs
+        ├── Victories.cs
+        └── obstaclescan.cs
